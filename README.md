@@ -33,6 +33,8 @@
 - **Сховище даних:** текстовий файл `info.txt`
 
 ---
+Також пройшов курс cs50: вступ до штучного інтелекту
+[Certificate_Kravcenko.pdf](https://github.com/user-attachments/files/21987974/Certificate_Kravcenko.pdf)
 
 ## Як запустити проєкт
 1. Клонувати репозиторій:

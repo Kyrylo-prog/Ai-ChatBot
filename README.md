@@ -35,6 +35,7 @@
 ---
 Також пройшов курс cs50: вступ до штучного інтелекту
 [Certificate_Kravcenko.pdf](https://github.com/user-attachments/files/21987974/Certificate_Kravcenko.pdf)
+<img width="1121" height="792" alt="image" src="https://github.com/user-attachments/assets/bb0eceeb-5cfc-4d9c-81a1-5167ead723db" />
 
 ## Як запустити проєкт
 1. Клонувати репозиторій:
